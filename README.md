@@ -1,4 +1,4 @@
-# 📄 Trabajo - Seminario
+# 📄 Proyecto del Seminario: Aplicación Web Dinámica
 
 ## 🧠 Descripción
 
