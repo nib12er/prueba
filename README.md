@@ -2,7 +2,7 @@
 
 ## 🧠 Descripción
 
-Este proyecto consiste en la creación de una página web dinámica utilizando **HTML**, **CSS** y **JavaScript**. Como equipo de 3 desarrolladores, trabajamos en conjunto para estructurar el código, mejorar la interactividad y garantizar una experiencia fluida para los usuarios.
+Este proyecto consiste en el desarrollo de una página web dinámica utilizando **HTML**, **CSS** y **JavaScript**. El objetivo principal fue aplicar conceptos fundamentales del desarrollo web y mejorar la interactividad de la interfaz mediante programación del lado del cliente. El trabajo fue realizado de forma colaborativa por un equipo de tres integrantes.
 
 ---
 
@@ -27,11 +27,13 @@ Este proyecto consiste en la creación de una página web dinámica utilizando *
 
 ---
 
-## ✅ Actividades realizadas
+## 🔧 Funcionalidades y Actividades Realizadas
 
-- Uso de **Node.js**
-- Integración de **JavaScript** al archivo **HTML**
-- Trabajo en equipo y colaboración con **GitHub**
+- ✅ Desarrollo de estructura base con **HTML5**
+- ✅ Estilizado responsivo con **CSS3**
+- ✅ Programación de eventos e interactividad con **JavaScript**
+- ✅ Integración del proyecto con **Git y GitHub**
+- ✅ Distribución colaborativa de tareas entre los miembros del equipo
 
 ---
 
