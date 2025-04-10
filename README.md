@@ -12,15 +12,18 @@ Este proyecto consiste en el desarrollo de una página web dinámica utilizando 
   <tr>
     <td align="center">
       <img src="members/nelson.png" alt="Nelson Rojas Camones" width="100" style="border-radius: 50%;" /><br/>
-      <b>Nelson Rojas Camones</b>
+      <b>Nelson Rojas Camones</b><br/>
+      <span>Rango: Senior</span>
     </td>
     <td align="center">
       <img src="members/niber.jpeg" alt="Niber Matencio Paucar" width="100" style="border-radius: 50%;" /><br/>
-      <b>Niber Matencio Paucar</b>
+      <b>Niber Matencio Paucar</b><br/>
+      <span>Rango: Semi Senior</span>
     </td>
     <td align="center">
       <img src="members/jheyner.jpeg" alt="Jheyner Yataco Cruz" width="100" style="border-radius: 50%;" /><br/>
-      <b>Jheyner Yataco Cruz</b>
+      <b>Jheyner Yataco Cruz</b><br/>
+      <span>Rango: Senior</span>
     </td>
   </tr>
 </table>
