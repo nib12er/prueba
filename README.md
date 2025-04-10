@@ -11,8 +11,9 @@ Este proyecto consiste en el desarrollo de una página web dinámica utilizando 
 <table>
   <tr>
     <td align="center">
-      <img src="members/nelson.png" alt="Nelson Rojas Camones" width="100" style="border-radius: 50%;" /><br/>
+      <img src="members/nelson.png" alt="Nelson Rojas Camones" width="100" style="border-radius: 50%;" /><br/><br/>
       <b>Nelson Rojas Camones</b>
+      
     </td>
     <td align="center">
       <img src="members/niber.jpeg" alt="Niber Matencio Paucar" width="100" style="border-radius: 50%;" /><br/>
